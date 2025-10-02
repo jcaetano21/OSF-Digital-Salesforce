@@ -1,5 +1,5 @@
 public with sharing class DiscountCalculator {
-    public Decimal calculateDiscount(Decimal amount,String discountCode) {
+    public calculateDiscount(Decimal amount,String discountCode) {
         if (amount == null) {
             return 0;
         }
