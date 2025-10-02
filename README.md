@@ -19,4 +19,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 
 ## Exercise Screenshot
-![alt text](image.png)
+![alt text](image-1.png)
